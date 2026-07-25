@@ -1,0 +1,33 @@
+# PDI Essentials
+
+> PDI Essentials (formerly CStore Essentials / Skupos) is a software platform for convenience store owners and operators. It provides back office management, scan data reporting, tobacco loyalty, GasBuddy integration, and financial management tools — purpose-built for independent and chain c-stores.
+
+## Main Pages
+
+- [Home](https://www.pdiessentials.com/): Platform overview — back office, scan data, loyalty, and GasBuddy in one platform.
+- [About](https://www.pdiessentials.com/about/): Company background and mission. Built by operators, for c-store operators.
+- [Pricing](https://www.pdiessentials.com/pricing/): Plans and pricing for c-store owners. Transparent, bundled options available.
+- [Contact](https://www.pdiessentials.com/contact/): Schedule a demo, reach support, or find office locations.
+- [Free Trial](https://www.pdiessentials.com/free-trial/): Start a 30-day free trial — no contract or credit card required.
+- [Get Started](https://www.pdiessentials.com/get-started/): Learn about back office, scan data, and loyalty offerings.
+- [Partners](https://www.pdiessentials.com/partners/): Partnership program for distributors and vendors serving c-store retailers.
+- [Core-Mark Partnership](https://www.pdiessentials.com/core-mark/): Preferred access to PDI Essentials solutions for Core-Mark customers.
+
+## Solutions
+
+- [Back Office & Operations](https://www.pdiessentials.com/solutions/back-office/): Real-time c-store operations — sales, pricebook, inventory, lottery, fuel, and automated reporting.
+- [Skupos Scan Data](https://www.pdiessentials.com/solutions/scan-data/): Automated scan data submission and monthly cash-back payments from tobacco manufacturers.
+- [Skupos Engage](https://www.pdiessentials.com/solutions/engage/): Tobacco loyalty and brand-funded promotions for independent c-stores.
+- [GasBuddy Business Pages](https://www.pdiessentials.com/solutions/gasbuddy/): Reach 50 million monthly active drivers — monitor foot traffic and promote your station.
+- [Financial Management](https://www.pdiessentials.com/solutions/financial/): Automated financial reporting, reconciliation, timesheet management, and account visibility.
+
+## Case Studies
+
+- [Big Johns Stores](https://www.pdiessentials.com/case-study/big-johns/): Improved scan rate by 50% and cut losses with CStore Essentials.
+- [GoodWay](https://www.pdiessentials.com/case-study/goodway/): Increased profits by 10% using live sales reporting.
+- [Hut Enterprises LTD](https://www.pdiessentials.com/case-study/hut-enterprises/): Saved 60% of time spent on lottery management.
+
+## Legal
+
+- [Terms of Service](https://www.pdiessentials.com/terms/)
+- [Cookie Policy](https://www.pdiessentials.com/cookie-policy/)
